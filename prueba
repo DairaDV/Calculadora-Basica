@@ -1,7 +1,11 @@
 #include <iostream>
 using namespace std;
 
+//Declaracion de funciones
 void Suma(float n1,float n2);
+void Resta(float n1,float n2);
+void Multi(float n1,float n2);
+void Division(float n1, float n2);
 
 int main(){
     int opc;
