@@ -61,6 +61,12 @@ void Suma(float n1,float n2){
     sum=n1+n2;
     cout<<"Resultado de la suma: "<<sum<<endl;
 }
+//Resta
+void Resta(float n1,float n2){
+    float res;
+    res=n1-n2;
+    cout<<"Resultado de la resta: "<<res<<endl;
+}
 //Multiplicacion
 void Multi(float n1,float n2){
     float mult;
